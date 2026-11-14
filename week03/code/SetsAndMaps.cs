@@ -7,7 +7,7 @@ public static class SetsAndMaps
     /// words (lower case, no duplicates). Using sets, find an O(n) 
     /// solution for returning all symmetric pairs of words.  
     ///
-    /// For example, if words was: [am, at, ma, if, fi], we would return :
+    /// For instance, if words was: [am, at, ma, if, fi], we would return :
     ///
     /// ["am & ma", "if & fi"]
     ///

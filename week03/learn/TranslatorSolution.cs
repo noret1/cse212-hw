@@ -15,7 +15,7 @@ public class TranslatorSolution
 
     /// <summary>
     /// Add the translation from 'from_word' to 'to_word'
-    /// For example, in a english to german dictionary:
+    /// For instance, in a english to german dictionary:
     /// 
     /// my_translator.AddWord("book","buch")
     /// </summary>
