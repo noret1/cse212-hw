@@ -1,4 +1,4 @@
-﻿// DO NOT MODIFY THIS FILE
+﻿// dont modify this file
 public class Node
 {
     public int Data { get; set; }

@@ -133,7 +133,7 @@ public class LinkedList : IEnumerable<int>
     /// </summary>
     public IEnumerator<int> GetEnumerator()
     {
-        var curr = _head; // Start at the beginning since this is a forward iteration.
+        var curr = _head; // begin at the beginning since this is a forward iteration.
         while (curr is not null)
         {
             yield return curr.Data; // Provide (yield) each item to the user
