@@ -6,7 +6,7 @@ public class LinkedList : IEnumerable<int>
     private Node? _tail;
 
     /// <summary>
-    /// Insert a new node at the front (i.e. the head) of the linked list.
+    /// Add a new node at the front (i.e. the head) of the linked list.
     /// </summary>
     public void InsertHead(int value)
     {
@@ -28,7 +28,7 @@ public class LinkedList : IEnumerable<int>
     }
 
     /// <summary>
-    /// Insert a new node at the back (i.e. the tail) of the linked list.
+    /// Add a new node at the back (i.e. the tail) of the linked list.
     /// </summary>
     public void InsertTail(int value)
     {
