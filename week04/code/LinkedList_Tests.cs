@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-// dont modify this file
+// DO NOT MODIFY THIS FILE
 
 [TestClass]
 public class InsertTailTests
